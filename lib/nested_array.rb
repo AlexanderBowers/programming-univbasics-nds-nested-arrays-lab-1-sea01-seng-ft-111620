@@ -60,7 +60,7 @@ def sorted_matrix
     "Watermelon",
     "Eggplant"
   ]
-  produce = [ORGANIC_PRODUCE.sort, CONVENTIONAL_PRODUCE.sort]
+  produce = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
   produce
 end
 
